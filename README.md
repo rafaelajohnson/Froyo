@@ -17,10 +17,10 @@ There is no starter code for this workshop, but you are encouraged to review the
 
 You can check your progress against these milestones if you would like some guidance on what to do next.
 
-1. Have you created an HTML file to live serve?
-2. Is the HTML file connected to a JS file?
-3. Can you prompt the user for froyo flavors and store their input?
-4. Can you parse the user input into an array of froyo flavors?
+1. Have you created an HTML file to live serve? Yes
+2. Is the HTML file connected to a JS file? Yes
+3. Can you prompt the user for froyo flavors and store their input? Yes
+4. Can you parse the user input into an array of froyo flavors? Yes
 5. Can you build an object to track which flavors you have counted so far?
 6. How should that object be updated as you iterate through the array of flavors?
 7. Are you using functions to organize your code?
